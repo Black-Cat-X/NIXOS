@@ -1,0 +1,2 @@
+# NIXOS
+config.nix
